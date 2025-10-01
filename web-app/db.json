@@ -1,0 +1,674 @@
+{
+  "genres": [
+    "Action",
+    "Comedy",
+    "Documentary",
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Horror"
+  ],
+  "filmRating": [
+    "G",
+    "PG",
+    "PG-13",
+    "R",
+    "NC-17"
+  ],
+  "films": [
+    {
+      "id": 1,
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Back to the Future",
+      "year": 2001,
+      "imdbRating": 1.5,
+      "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "images": [
+        "https://picsum.photos/500/300?image=41"
+      ],
+      "director": "James Cameron",
+      "rated": "G",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 2,
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "title": "The Lord of  the Ring: The Return of the King",
+      "year": 2002,
+      "imdbRating": 2.4,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=42"
+      ],
+      "director": "Martin Scorsese",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 3,
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Snow White",
+      "year": 2003,
+      "imdbRating": 3.2,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=43"
+      ],
+      "director": "Ridley Scott",
+      "rated": "PG-13",
+      "actors": [
+        "Lily James",
+        "Lucy Hale",
+        "Lucy Bell"
+      ]
+    },
+    {
+      "id": 4,
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "title": "Harry Potter",
+      "year": 2004,
+      "imdbRating": 4.8,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=44"
+      ],
+      "director": "Ethan Coen",
+      "rated": "G",
+      "actors": [
+        "Lily James",
+        "Lucy Hale",
+        "Lucy Bell"
+      ]
+    },
+    {
+      "id": 5,
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Stranger Things",
+      "year": 2005,
+      "imdbRating": 5.6,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=45"
+      ],
+      "director": "Joel Coen",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 6,
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "title": "A Monster Calls",
+      "year": 2016,
+      "imdbRating": 6.5,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=46"
+      ],
+      "director": "James Cameron",
+      "rated": "PG-13",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 7,
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "The NeverEnding Story",
+      "year": 1984,
+      "imdbRating": 7.1,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=47"
+      ],
+      "director": "Joel Coen",
+      "rated": "NC-17",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 8,
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016,
+      "imdbRating": 8.9,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=48"
+      ],
+      "director": "Ethan Coen",
+      "rated": "R",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 9,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Mission Impossible - Dead Reckoning Part One",
+      "year": 2016,
+      "imdbRating": 1.5,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=21"
+      ],
+      "director": "Ethan Coen",
+      "rated": "G",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 10,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Superman",
+      "year": 2002,
+      "imdbRating": 2.3,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=22"
+      ],
+      "director": "James Cameron",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 11,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Matrix",
+      "year": 2003,
+      "imdbRating": 3.2,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=23"
+      ],
+      "director": "Joel Coen",
+      "rated": "PG-13",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 12,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Terminator",
+      "year": 2004,
+      "imdbRating": 4.8,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=24"
+      ],
+      "director": "Stanley Kubrick",
+      "rated": "PG",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 13,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Interstellar",
+      "year": 2005,
+      "imdbRating": 5.6,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=25"
+      ],
+      "director": "James Cameron",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 14,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "A Minecraft Movie",
+      "year": 2006,
+      "imdbRating": 6.5,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=26"
+      ],
+      "director": "Joel Coen",
+      "rated": "R",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 15,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Karate Kid",
+      "year": 2007,
+      "imdbRating": 7.1,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=27"
+      ],
+      "director": "James Cameron",
+      "rated": "NC-17",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 16,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Gladiator II",
+      "year": 2008,
+      "imdbRating": 8.9,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=28"
+      ],
+      "director": "James Cameron",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 17,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Warfare",
+      "year": 2001,
+      "imdbRating": 1.5,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=31"
+      ],
+      "director": "James Cameron",
+      "rated": "PG-13",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 18,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "The Ugly Stepsister",
+      "year": 2002,
+      "imdbRating": 2.3,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=32"
+      ],
+      "director": "James Cameron",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 19,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "The Accountant 2",
+      "year": 2003,
+      "imdbRating": 3.2,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=33"
+      ],
+      "director": "James Cameron",
+      "rated": "PG-13",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 20,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Conclave",
+      "year": 2004,
+      "imdbRating": 4.8,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=34"
+      ],
+      "director": "James Cameron",
+      "rated": "R",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 21,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "The Four Seasons",
+      "year": 2005,
+      "imdbRating": 5.6,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=35"
+      ],
+      "director": "James Cameron",
+      "rated": "PG",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 22,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Blonde",
+      "year": 2006,
+      "imdbRating": 6.5,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=36"
+      ],
+      "director": "James Cameron",
+      "rated": "NC-17",
+      "actors": [
+        "James Stewart",
+        "James Dean",
+        "James Coburn"
+      ]
+    },
+    {
+      "id": 23,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Babygirl",
+      "year": 2007,
+      "imdbRating": 7.1,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=37"
+      ],
+      "director": "James Cameron",
+      "rated": "PG-13",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    },
+    {
+      "id": 24,
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "title": "Irreversible",
+      "year": 2008,
+      "imdbRating": 8.9,
+      "plot": "...",
+      "images": [
+        "https://picsum.photos/500/300?images=38"
+      ],
+      "director": "James Cameron",
+      "rated": "PG-13",
+      "actors": [
+        "Robert De Niro",
+        "Robert Duvall",
+        "Robert Redford"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "username_1",
+      "email": "email_1@email.com",
+      "name": "test name",
+      "lastname": "Lastname_1",
+      "password": "password_1",
+      "favGenres": [
+        {
+          "genre": "Fantasy",
+          "numRating": 4,
+          "percentage": 66.66666666666666
+        },
+        {
+          "genre": "Action",
+          "numRating": 1,
+          "percentage": 16.666666666666664
+        },
+        {
+          "genre": "Drama",
+          "numRating": 1,
+          "percentage": 16.666666666666664
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "username_2",
+      "email": "email_2@email.com",
+      "name": "Name_2",
+      "lastname": "Lastname_2",
+      "password": "password_2",
+      "favGenres": [
+        {
+          "genre": "Drama",
+          "numRating": 2,
+          "percentage": 50
+        },
+        {
+          "genre": "Action",
+          "numRating": 1,
+          "percentage": 25
+        },
+        {
+          "genre": "Fantasy",
+          "numRating": 1,
+          "percentage": 25
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "username": "username_1",
+      "date": "2025-05-25T19:25:54.889Z",
+      "title": "Back to the Future",
+      "genre": "Fantasy",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "username": "username_1",
+      "date": "2025-05-26T19:25:54.889Z",
+      "title": "Harry Potter",
+      "genre": "Fantasy",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "username": "username_2",
+      "date": "2025-05-27T19:25:54.889Z",
+      "title": "Warfare",
+      "genre": "Drama",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "username": "username_1",
+      "date": "2025-05-30T16:54:06.730Z",
+      "title": "Snow White",
+      "genre": "Fantasy",
+      "rating": 3,
+      "id": 4
+    },
+    {
+      "username": "username_1",
+      "date": "2025-06-03T18:39:34.891Z",
+      "title": "Back to the Future",
+      "genre": "Fantasy",
+      "rating": 1,
+      "id": 5
+    },
+    {
+      "username": "username_1",
+      "date": "2025-06-03T18:41:36.807Z",
+      "title": "The Lord of  the Ring: The Return of the King",
+      "genre": "Fantasy",
+      "rating": 2,
+      "id": 6
+    },
+    {
+      "username": "username_1",
+      "date": "2025-06-04T17:09:39.714Z",
+      "title": "Back to the Future",
+      "genre": "Fantasy",
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "username": "username_1",
+      "date": "2025-06-04T17:37:48.843Z",
+      "title": "Snow White",
+      "genre": "Fantasy",
+      "rating": 3,
+      "id": 8
+    },
+    {
+      "username": "username_1",
+      "date": "2025-06-04T18:48:31.756Z",
+      "title": "Back to the Future",
+      "genre": "Fantasy",
+      "rating": 5,
+      "id": 9
+    }
+  ]
+}
